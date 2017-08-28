@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imdb_ranking: 1
+  user_id_id: 
+  show_id_id: 
+
+two:
+  imdb_ranking: 1
+  user_id_id: 
+  show_id_id: 
